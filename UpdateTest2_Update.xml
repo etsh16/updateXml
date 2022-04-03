@@ -22,4 +22,15 @@
     <description>New Update Hisham
     </description>
   </update>
+    </update>
+    <update appID="UpdateTest2">
+    <version>4.0.0.0</version>
+    <url>https://raw.githubusercontent.com/etsh16/updateXml/master/UpdateTest2/bin/Debug/UpdateTest2.exe</url>
+    <fileName>UpdateTest2.exe</fileName>
+    <md5>222BA3BBE9D1401D06D58F3F37DF677C</md5>
+    <launchArgs>
+    </launchArgs>
+    <description>New Update Hisham
+    </description>
+  </update>
 </sharpUpdate>
