@@ -13,25 +13,27 @@ namespace UpdateTest2
 {
     public partial class Form1 : Form, AutoUpdater.AutoUpdatable
     {
-        public Form1()
+		private AutoUpdater.AutoUpdater updater;
+		public Form1()
         {
             InitializeComponent();
-            label1.Text = Assembly.GetExecutingAssembly().GetName().Version.ToString();
+			updater = new AutoUpdater.AutoUpdater(this);
+			label1.Text = Assembly.GetExecutingAssembly().GetName().Version.ToString();
         }
 
 		public string ApplicationName
 		{
-			get { return "test"; }
+			get { return "UpdateTest2"; }
 		}
 
 		public string ApplicationID
 		{
-			get { return "test"; }
+			get { return "UpdateTest2"; }
 		}
 
 		public Language Lang
 		{
-			get { return null; }
+			get { return new Language("en_"); }
 		}
 
 		public Assembly ApplicationAssembly
@@ -46,12 +48,17 @@ namespace UpdateTest2
 
 		public Uri UpdateXmlLocation
 		{
-			get { return new Uri("https://raw.githubusercontent.com/henryxrl/UpdateTest2/master/UpdateTest2_Update.xml"); }
+			get { return new Uri("https://raw.githubusercontent.com/etsh16/updateXml/master/UpdateTest2_Update.xml"); }
 		}
 
 		public Form Context
 		{
 			get { return this; }
 		}
-	}
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+			updater.DoUpdate(false);
+		}
+    }
 }
