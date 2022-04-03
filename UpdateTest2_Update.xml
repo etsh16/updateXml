@@ -1,9 +1,9 @@
 <sharpUpdate>
-  <update appID="SimpleEpub2">
+  <update appID="UpdateTest2">
     <version>2.20.0.6</version>
     <url>https://raw.githubusercontent.com/etsh16/updateXml/master/UpdateTest2/bin/Debug/UpdateTest2.exe</url>
     <fileName>UpdateTest2.exe</fileName>
-    <md5>0EFBF7B823CA5D9987F307550378540B</md5>
+    <md5>DE664A5DD0980BDF566C41B7F469732F</md5>
     <launchArgs>
     </launchArgs>
     <description>4/3/2022 Update:
