@@ -8,16 +8,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Reflection;
+using SharpUpdate;
+using AutoUpdaterDotNET;
 
 namespace UpdateTest2
 {
     public partial class Form1 : Form, AutoUpdater.AutoUpdatable
     {
-		private AutoUpdater.AutoUpdater updater;
+		//private AutoUpdater.AutoUpdater updater;
 		public Form1()
         {
             InitializeComponent();
-			updater = new AutoUpdater.AutoUpdater(this);
+			//updater = new AutoUpdater.AutoUpdater(this);
 			label1.Text = Assembly.GetExecutingAssembly().GetName().Version.ToString();
         }
 
@@ -48,7 +50,7 @@ namespace UpdateTest2
 
 		public Uri UpdateXmlLocation
 		{
-			get { return new Uri("https://raw.githubusercontent.com/etsh16/updateXml/master/UpdateTest2_Update.xml"); }
+			get { return new Uri("http://etshnetgear.royalwebhosting.net/update.xml"); }
 		}
 
 		public Form Context
@@ -58,7 +60,8 @@ namespace UpdateTest2
 
         private void button1_Click(object sender, EventArgs e)
         {
-			updater.DoUpdate(false);
+			//updater.DoUpdate(false);
+			AutoUpdaterDotNET.AutoUpdater.Start("http://etshnetgear.royalwebhosting.net/UpdateTest2_Update.xml");
 		}
     }
 }

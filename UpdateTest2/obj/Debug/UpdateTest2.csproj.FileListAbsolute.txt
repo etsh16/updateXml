@@ -12,3 +12,6 @@ C:\Users\Hisham\source\repos\UpdateTest2\UpdateTest2\obj\Debug\UpdateTest2.pdb
 C:\Users\Hisham\source\repos\UpdateTest2\UpdateTest2\obj\Debug\UpdateTest2.AutoUpdater.AutoUpdateAcceptForm.resources
 C:\Users\Hisham\source\repos\UpdateTest2\UpdateTest2\obj\Debug\UpdateTest2.AutoUpdater.AutoUpdateDownloadForm.resources
 C:\Users\Hisham\source\repos\UpdateTest2\UpdateTest2\obj\Debug\UpdateTest2.csproj.CopyComplete
+C:\Users\Hisham\source\repos\UpdateTest2\UpdateTest2\bin\Debug\AutoUpdater.NET.dll
+C:\Users\Hisham\source\repos\UpdateTest2\UpdateTest2\bin\Debug\AutoUpdater.NET.pdb
+C:\Users\Hisham\source\repos\UpdateTest2\UpdateTest2\bin\Debug\AutoUpdater.NET.xml
