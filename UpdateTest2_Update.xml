@@ -9,5 +9,30 @@
     <description>New Update Hisham
     </description>
   </update>
-</sharpUpdate>
+  </sharpUpdate>
+<sharpUpdate>
+  <update appID="UpdateTest2">
+    <version>2.20.0.6</version>
+    <url>https://raw.githubusercontent.com/etsh16/updateXml/master/UpdateTest2/bin/Debug/UpdateTest2.exe</url>
+    <fileName>UpdateTest2.exe</fileName>
+    <md5>DE664A5DD0980BDF566C41B7F469732F</md5>
+    <launchArgs>
+    </launchArgs>
+    <description>4/3/2022 Update:
+    
 
+4/3/2022 更新：
+    </description>
+  </update>
+    <update appID="UpdateTest2">
+    <version>3.0.0.0</version>
+    <url>https://raw.githubusercontent.com/etsh16/updateXml/master/UpdateTest2/bin/Debug/UpdateTest2.exe</url>
+    <fileName>UpdateTest2.exe</fileName>
+    <md5>01EDDBD5E1C66E7CA0C08D3A14A237C1</md5>
+    <launchArgs>
+    </launchArgs>
+    <description>New Update Hisham
+    </description>
+  </update>
+
+</sharpUpdate>
