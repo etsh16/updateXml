@@ -1,0 +1,14 @@
+C:\Users\Hisham\source\repos\UpdateTest2\UpdateTest2\bin\Debug\UpdateTest2.exe.config
+C:\Users\Hisham\source\repos\UpdateTest2\UpdateTest2\bin\Debug\UpdateTest2.exe
+C:\Users\Hisham\source\repos\UpdateTest2\UpdateTest2\bin\Debug\UpdateTest2.pdb
+C:\Users\Hisham\source\repos\UpdateTest2\UpdateTest2\obj\Debug\UpdateTest2.csproj.AssemblyReference.cache
+C:\Users\Hisham\source\repos\UpdateTest2\UpdateTest2\obj\Debug\UpdateTest2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hisham\source\repos\UpdateTest2\UpdateTest2\obj\Debug\UpdateTest2.Form1.resources
+C:\Users\Hisham\source\repos\UpdateTest2\UpdateTest2\obj\Debug\UpdateTest2.Properties.Resources.resources
+C:\Users\Hisham\source\repos\UpdateTest2\UpdateTest2\obj\Debug\UpdateTest2.csproj.GenerateResource.cache
+C:\Users\Hisham\source\repos\UpdateTest2\UpdateTest2\obj\Debug\UpdateTest2.csproj.CoreCompileInputs.cache
+C:\Users\Hisham\source\repos\UpdateTest2\UpdateTest2\obj\Debug\UpdateTest2.exe
+C:\Users\Hisham\source\repos\UpdateTest2\UpdateTest2\obj\Debug\UpdateTest2.pdb
+C:\Users\Hisham\source\repos\UpdateTest2\UpdateTest2\obj\Debug\UpdateTest2.AutoUpdater.AutoUpdateAcceptForm.resources
+C:\Users\Hisham\source\repos\UpdateTest2\UpdateTest2\obj\Debug\UpdateTest2.AutoUpdater.AutoUpdateDownloadForm.resources
+C:\Users\Hisham\source\repos\UpdateTest2\UpdateTest2\obj\Debug\UpdateTest2.csproj.CopyComplete
