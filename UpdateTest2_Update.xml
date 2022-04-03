@@ -22,6 +22,9 @@
     <description>New Update Hisham
     </description>
   </update>
+
+</sharpUpdate>
+<sharpUpdate>
     </update>
     <update appID="UpdateTest2">
     <version>4.0.0.0</version>
@@ -33,4 +36,4 @@
     <description>New Update Hisham
     </description>
   </update>
-</sharpUpdate>
+  </sharpUpdate>
