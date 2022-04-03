@@ -1,3 +1,4 @@
+
 <sharpUpdate>
   <update appID="UpdateTest2">
     <version>2.20.0.6</version>
@@ -25,7 +26,6 @@
 
 </sharpUpdate>
 <sharpUpdate>
-    </update>
     <update appID="UpdateTest2">
     <version>4.0.0.0</version>
     <url>https://raw.githubusercontent.com/etsh16/updateXml/master/UpdateTest2/bin/Debug/UpdateTest2.exe</url>
